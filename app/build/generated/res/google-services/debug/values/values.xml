@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">358980825260-m9ugboctce8p4qmrdhcqge3q147f0t6p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">358980825260</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnFIs7H3l2YbDc2UNoq7GLnxwKPB-XxOU</string>
+    <string name="google_app_id" translatable="false">1:358980825260:android:40d45dcd745f2f442a2f09</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnFIs7H3l2YbDc2UNoq7GLnxwKPB-XxOU</string>
+    <string name="google_storage_bucket" translatable="false">skillsgogo-db38f.appspot.com</string>
+    <string name="project_id" translatable="false">skillsgogo-db38f</string>
+</resources>

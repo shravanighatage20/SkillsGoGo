@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.skillsgogo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+
+    <permission
+        android:name="com.example.skillsgogo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.skillsgogo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.SkillsGoGo" >
+        <activity
+            android:name="com.example.skillsgogo.RemovePdf"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.ReadComments"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.GiveComments"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.PostDetails"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.MyPost"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.AddPost"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.ReadPost"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.Community"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.SearchBycat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.SearchByTitle"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.SearchByAuth"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.SeeFile"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.AddPdf"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.AddCategory"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.StudentSearch"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.StudentView"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.QuizResultActivity"
+            android:exported="false"
+            android:label="Quiz Result"
+            android:parentActivityName="com.example.skillsgogo.GiveQuiz" />
+        <activity
+            android:name="com.example.skillsgogo.GiveFeedBack"
+            android:exported="false" /> <!-- Remove the <activity> tag for HomeFragment -->
+        <activity
+            android:name="com.example.skillsgogo.NavMain"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.ReadFeedback"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.GiveQuiz"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.AddQue"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.UpdateFetch"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.CourseDetails"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.UpdateCourse"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.DeleteCourse"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.ReadCourse"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.AddCourse"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.StudentHome"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.TeacherHome"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.Register"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.ChoiceTL"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.example.skillsgogo.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="genericidp" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="firebase.auth"
+                    android:path="/"
+                    android:scheme="recaptcha" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+            Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+            android:visibleToInstantApps="true" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.skillsgogo.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.example.skillsgogo.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_read.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\read.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_login_bg.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\login_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_add_quiz.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\add_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_update_fetch.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_update_fetch.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_add.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\add.png"
+    },
+    {
+        "merged": "com.example.skillsgogo.app-merged_res-47:/layout_activity_see_file.xml.flat",
+        "source": "com.example.skillsgogo.app-main-49:/layout/activity_see_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_sign_in_with_google.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\sign_in_with_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_read_post.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_read_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_quiz_result.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_quiz_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\font\\amaranth.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_read_comments.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_read_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_see_file.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_see_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_update_course.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_update_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_give_comments.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_give_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_nav_home.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\nav_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_search_bycat.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_search_bycat.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_choice_tl.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\choice_tl.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_search_by_auth.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_search_by_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_give_feed_back.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_give_feed_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_student_home.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_student_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_login_edt.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\login_edt.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_nav_main.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_nav_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_add_course.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_add_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_delete_course.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_delete_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_user.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_add_pdf.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_add_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\raw_splash.mp4.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\raw\\splash.mp4"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_give_quiz.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_give_quiz.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_add_que.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_add_que.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_read_feedback.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_read_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_student_search.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_student_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_my_post.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_my_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_student_view.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_student_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_update.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\font_allura.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\font\\allura.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_remove_pdf.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_remove_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_fragment_logout.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\fragment_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_deletcourse.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\deletcourse.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_community.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_learn.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\learn.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_add_quiz_bg.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\add_quiz_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_nav_about.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\nav_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_choice_tl.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_choice_tl.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_teach_learn.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\teach_learn.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_teacher_home.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_teacher_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_read_course.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_read_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_addcourse_bg.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\addcourse_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_nav_logout.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\nav_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_start_teaching.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\start_teaching.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_search_by_title.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_search_by_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_post_details.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_post_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\layout_activity_course_details.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\layout\\activity_course_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\font_anaheim.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\font\\anaheim.xml"
+    },
+    {
+        "merged": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-merged_res-47:\\drawable_choice_tl_btn.xml.flat",
+        "source": "C:\\Users\\GAYATRI\\.gradle\\daemon\\7.5\\com.example.skillsgogo.app-main-49:\\drawable\\choice_tl_btn.xml"
+    }
+]
