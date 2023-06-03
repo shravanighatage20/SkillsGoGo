@@ -1,0 +1,54 @@
+<!-- activity_remove_pdf.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".RemovePdf"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:text="Delete a file"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/anaheim"
+        android:textColor="@color/white"
+        android:layout_marginTop="70dp"
+        />
+
+    <EditText
+        android:id="@+id/fileNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView"
+        android:hint="Enter file name"
+        android:imeOptions="actionDone"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:inputType="text"
+        android:background="@drawable/add_quiz_bg"
+        android:textColorHint="@color/white"
+        android:padding="20dp"
+        android:fontFamily="@font/anaheim"
+        android:textSize="21dp"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/removeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fileNameEditText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Delete this file permanently"
+        android:background="@drawable/button_bg"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"/>
+
+</RelativeLayout>

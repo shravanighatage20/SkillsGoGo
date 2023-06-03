@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddPdf"
+    android:padding="50dp"
+    android:background="@color/black">
+
+    <Button
+        android:layout_marginTop="60dp"
+        android:id="@+id/select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select File"
+        android:layout_gravity="center"
+        android:background="@drawable/button_bg"
+        android:padding="10dp"
+        android:fontFamily="@font/anaheim"
+        android:textStyle="bold"
+        android:textSize="23sp"
+        />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:text="Please select a file"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:fontFamily="@font/anaheim"
+        android:textSize="21sp"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:background="@drawable/button_bg"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:fontFamily="@font/anaheim"
+        android:textStyle="bold"
+        android:textSize="23sp" />
+    <Button
+        android:id="@+id/removepdf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select a File to remove"
+        android:background="@drawable/button_bg"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:fontFamily="@font/anaheim"
+        android:textStyle="bold"
+        android:textSize="23sp"
+        android:layout_margin="20dp"/>
+
+
+
+</LinearLayout>
